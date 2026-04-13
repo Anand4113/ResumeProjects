@@ -1,6 +1,6 @@
 # Anand Sabnis – Project Portfolio
 
-Selected machine learning, data science, analytics, and research projects. This repository is organized as a recruiter-friendly portfolio to support resume review and technical conversations.
+Selected machine learning, data science, analytics, and research projects. Stuff that I'm proud of.
 
 ## Featured Projects
 
