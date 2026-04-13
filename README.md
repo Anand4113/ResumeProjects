@@ -23,11 +23,8 @@ Classification project using health and lifestyle variables to predict diabetes 
 
 Data and society research project analyzing discipline patterns in schools and their broader social context, with emphasis on causal reasoning, interpretation, and communication.
 
-**Skills:** research design, social impact analysis, reporting, presentation
+**Skills:** research design, social impact analysis, reporting
 
 ## Tech Stack
 Python, SQL, R, TensorFlow, PyTorch, Scikit-learn, OpenCV, Tableau, Power BI, Docker
 
-## Notes
-- Each project folder now includes a project-specific README for quick review.
-- Large model files are kept in the repo snapshot here for completeness, but should usually be stored via releases, Git LFS, or external storage if publishing publicly.
